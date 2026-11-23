@@ -10,6 +10,15 @@ Beyond technical knowledge, I value reliability, structured problem-solving, and
 
 ---
 
+## Education and background
+
+- **M.Sc. Data Science**, Philipps University of Marburg (since April 2024)
+- **B.Sc. Computer Science**, Islamic Azad University, Science and Research Branch, Tehran (2017 to 2022)
+- IT helpdesk at Click Institute in Tehran (2022 to 2023)
+- Volunteering at Marburg University: orientation buddy for new international students and semester buddy in the MarMento program
+- Languages: English (C1), German (B1), Persian (native)
+
+
 ## What I worked on
 
 - **NLP**: fine-tuning transformer models (DistilBERT, ALBERT), text preprocessing for noisy social media data, task-oriented dialogue systems
@@ -32,14 +41,6 @@ Beyond technical knowledge, I value reliability, structured problem-solving, and
 **ML / DL:** PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers
 **Data:** pandas, NumPy, Matplotlib, Seaborn, REST APIs
 **Tools:** Git, Docker, Jupyter, VS Code
-
-## Education and background
-
-- **M.Sc. Data Science**, Philipps University of Marburg (since April 2024)
-- **B.Sc. Computer Science**, Islamic Azad University, Science and Research Branch, Tehran (2017 to 2022)
-- IT helpdesk at Click Institute in Tehran (2022 to 2023)
-- Volunteering at Marburg University: orientation buddy for new international students and semester buddy in the MarMento program
-- Languages: English (C1), German (B1), Persian (native)
 
 ## Get in touch
 
